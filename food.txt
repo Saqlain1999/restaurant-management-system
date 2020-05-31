@@ -1,0 +1,12 @@
+  Product   Price($)
+1.  Butter	05
+2.  Hotdog	04
+3.  Salmon	06
+4.  Burger	07
+5.  Fries	02
+6.  Sushi	11
+7.  Pizza	10
+8.  Cookies	02
+9.  Chicken	15
+10. Taco	03
+11. Cake	18

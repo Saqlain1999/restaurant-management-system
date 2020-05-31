@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1513542020 source:c:\users\saqlain\desktop\university\c programming\fop project\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1513584265 source:d:\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1513841645 source:c:\users\saqlain\desktop\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
